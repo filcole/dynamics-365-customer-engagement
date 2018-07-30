@@ -19,7 +19,7 @@ manager: "sakudes"
 
 # Setup a Postman environment
 
-You can use Postman to connect to your [!INCLUDE[](../../includes/pn-dyn-365.md)] instance, compose Web API requests, send them, and view responses. Managing authentication is part that challenges many people. Use this information configure a Postman environment to work for both Online and On-premise environments.
+You can use Postman to connect to your [!INCLUDE[](../../includes/pn-dyn-365.md)] instance, compose Web API requests, send them, and view responses. Managing authentication is a part that challenges many people. Use this information configure a Postman environment to work for both Online and On-premise environments.
 
 You can use a Postman environment to save a set of variables that you will use to connect. These values can be accessed within postman using this syntax: `{{name}}`. [!INCLUDE[](../../includes/sdk-for-more-info-about.md)] Postman variables, see [Postman Documentation > Variables](https://www.getpostman.com/docs/v6/postman/environments_and_globals/variables).
 
